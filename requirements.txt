@@ -1,0 +1,6 @@
+matplotlib
+PILLOW
+requests
+opencv-python
+azure-cognitiveservices-vision-face
+asyncio

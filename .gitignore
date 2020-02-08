@@ -1,4 +1,5 @@
-#confidentials/
+confidentials/
 venv/
 ACS/
 .idea/
+!FaceAPI/*.jpg
