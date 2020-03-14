@@ -1,3 +1,6 @@
+imutils
+azure
+msrest
 matplotlib
 PILLOW
 requests

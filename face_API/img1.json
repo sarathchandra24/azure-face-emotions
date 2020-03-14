@@ -1,0 +1,1 @@
+[{'faceId': '1023d862-4903-41cc-83e9-0c9ad55472ea', 'faceRectangle': {'top': 220, 'left': 266, 'width': 124, 'height': 124}, 'faceAttributes': {'smile': 0.012, 'gender': 'male', 'age': 25.0, 'glasses': 'NoGlasses', 'emotion': {'anger': 0.002, 'contempt': 0.253, 'disgust': 0.001, 'fear': 0.0, 'happiness': 0.012, 'neutral': 0.723, 'sadness': 0.009, 'surprise': 0.0}}}]

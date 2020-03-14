@@ -1,5 +1,6 @@
-confidentials/
-venv/
 ACS/
+computerVision/
+face_API/temp_images/*
+venv/
 .idea/
-!FaceAPI/*.jpg
+req
