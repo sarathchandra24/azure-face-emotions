@@ -1,5 +1,5 @@
-subscription_key = "c0235fcc9d60470c8a39054f04a7c904"  # DSFace API
-face_api_url = 'https://get-expressions.cognitiveservices.azure.com/'
+subscription_key = "__FACE_API_KEY__"  # DSFace API
+face_api_url = '__FACE_API_URL__'
 
 PERSON_GROUP_IDs = "eidiko-auth"
 
