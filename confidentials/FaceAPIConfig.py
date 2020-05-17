@@ -1,6 +1,6 @@
 
-subscription_key = "e6d69a567691449da845339320fed9e7" #DSFace API
-face_api_url = 'https://face-record-the-expressions.cognitiveservices.azure.com/'
+subscription_key = "__FACE_API_KEY__" #DSFace API
+face_api_url = '__URL__'
 
 
 def config():
